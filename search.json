@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "series/index.html",
+    "href": "series/index.html",
+    "title": "系列",
+    "section": "",
+    "text": "系列文章的入口。当前内容尚少，今后可以在此组织循序渐进的专题。\n\n\n\n\n\n\n\n\n\n单位根札记\n\n\n\n数学\n\n系列\n\n\n\n从单位根、周期和与对称性出发的一组文章。\n\n\n\n\n\n2026年7月26日\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "thoughts/welcome.html",
+    "href": "thoughts/welcome.html",
+    "title": "欢迎来到结构的烟花",
+    "section": "",
+    "text": "欢迎。\n这里以数学写作为主，也会偶尔谈语言与代码。理想中的文章不只给出结论，还尽量保留问题的来路、关键的转折，以及符号背后的直觉。\n第一篇示例文章讨论正十七边形中的余弦和。以后，长文会进入“文章”，短一些的公开想法会进入“随想”，相互关联的内容则整理成“系列”。\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "文章",
+    "section": "",
+    "text": "这里收录正式发表、适合完整阅读的文章。\n\n\n\n\n\n\n\n\n\n正十七边形中的余弦和\n\n\n\n数学\n\n数论\n\n代数\n\n\n\n利用十七次单位根和模 17 的二次剩余，推导 cos(2π/17)+cos(4π/17)+cos(8π/17)+cos(16π/17) 的精确值。\n\n\n\n\n\n2026年7月26日\n\n\nBruno Wang\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "归档",
+    "section": "",
+    "text": "排序方式\n      默认\n      \n        日期 - 日期升序\n      \n      \n        日期 - 日期降序\n      \n      \n        标题\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n日期\n\n\n\n标题\n\n\n\n分类\n\n\n\n\n\n\n\n\n \n\n\n文章\n\n\n \n\n\n\n\n\n\n \n\n\n随想\n\n\n \n\n\n\n\n\n\n \n\n\n系列\n\n\n \n\n\n\n\n\n\n2026年7月26日\n\n\n正十七边形中的余弦和\n\n\n数学, 数论, 代数\n\n\n\n\n\n\n2026年7月26日\n\n\n欢迎来到结构的烟花\n\n\n站务, 写作\n\n\n\n\n\n\n2026年7月26日\n\n\n单位根札记\n\n\n数学, 系列\n\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "结构的烟花",
+    "section": "",
+    "text": "Fireworks of Structure\n\n\n关于数学、语言与代码的随想\n这里记录那些值得慢慢写清楚的结构：一个证明为什么成立，一种记号如何改变思考，以及代码怎样帮助我们看见数学。\n正式文章收在文章，较短的公开笔记收在随想。网站以中文为主，目录结构也为未来的英文文章留出了空间。"
+  },
+  {
+    "objectID": "index.html#最新内容",
+    "href": "index.html#最新内容",
+    "title": "结构的烟花",
+    "section": "最新内容",
+    "text": "最新内容"
+  },
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "主题",
+    "section": "",
+    "text": "使用下方分类筛选文章；文章自身也可以带更细粒度的标签。\n\n\n\n\n\n\n\n\n\n文章\n\n\n经过整理的数学、语言与代码长文。\n\n\n\n\n\n\n\n\n\n\n随想\n\n\n可公开的短札、问题与阶段性观察。\n\n\n\n\n\n\n\n\n\n\n系列\n\n\n围绕同一问题持续展开的文章集合。\n\n\n\n\n\n\n\n\n\n\n正十七边形中的余弦和\n\n\n\n数学\n\n数论\n\n代数\n\n\n\n利用十七次单位根和模 17 的二次剩余，推导 cos(2π/17)+cos(4π/17)+cos(8π/17)+cos(16π/17) 的精确值。\n\n\n\n\n\n2026年7月26日\n\n\n\n\n\n\n\n欢迎来到结构的烟花\n\n\n\n站务\n\n写作\n\n\n\n这个博客会写什么，以及它为何从数学写作开始。\n\n\n\n\n\n2026年7月26日\n\n\n\n\n\n\n\n单位根札记\n\n\n\n数学\n\n系列\n\n\n\n从单位根、周期和与对称性出发的一组文章。\n\n\n\n\n\n2026年7月26日\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于",
+    "section": "",
+    "text": "“结构的烟花”（Fireworks of Structure）是 Bruno Wang 的个人写作空间，主题以数学为主，也包括语言与代码。\n这里重视可复查的推导、清楚的记号与耐久的网页格式。除这些写作取向外，本站暂不添加未经作者确认的个人履历。\n如需反馈某篇文章，可在文章底部参与讨论，或通过对应 GitHub 仓库提交 issue。\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html",
+    "href": "posts/cosine-sum-17/index.html",
+    "title": "正十七边形中的余弦和",
+    "section": "",
+    "text": "令\n\\[\nx=\\frac{2\\pi}{17},\n\\qquad\nS=\\cos x+\\cos 2x+\\cos 4x+\\cos 8x.\n\\]\n这四个角看似只是不断加倍，却恰好选中了模 (17) 的二次剩余。这个观察把一个三角函数问题变成了单位根的分组问题。"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html#结论",
+    "href": "posts/cosine-sum-17/index.html#结论",
+    "title": "正十七边形中的余弦和",
+    "section": "结论",
+    "text": "结论\n\n命题 1 (余弦和) 若 (x=2/17)，则\n\\[\nS=\\cos x+\\cos 2x+\\cos 4x+\\cos 8x\n  =\\frac{\\sqrt{17}-1}{4}.\n\\tag{1}\\]\n\n证明 命题 1 之前，先把余弦写成单位根的实部。"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html#单位根与二次剩余",
+    "href": "posts/cosine-sum-17/index.html#单位根与二次剩余",
+    "title": "正十七边形中的余弦和",
+    "section": "单位根与二次剩余",
+    "text": "单位根与二次剩余\n取\n\\[\n\\zeta=e^{2\\pi i/17}.\n\\tag{2}\\]\n模 (17) 的非零平方构成集合\n\\[\nR=\\{1,2,4,8,9,13,15,16\\},\n\\tag{3}\\]\n而非二次剩余为\n\\[\nN=\\{3,5,6,7,10,11,12,14\\}.\n\\]\n注意 (R) 在取负数时保持不变，而且 (R={,,,})。因此高斯周期\n\\[\n\\eta=\\sum_{r\\in R}\\zeta^r\n\\tag{4}\\]\n是实数，并且由 Euler 公式立即得到\n\\[\n\\eta\n=2\\bigl(\\cos x+\\cos 2x+\\cos 4x+\\cos 8x\\bigr)\n=2S.\n\\tag{5}\\]\n\n引理 1 (周期乘积) 若\n\\[\n\\nu=\\sum_{n\\in N}\\zeta^n,\n\\]\n则\n\\[\n\\eta+\\nu=-1,\n\\qquad\n\\eta\\nu=-4.\n\\tag{6}\\]\n\n\n证明. 第一个等式来自全部非平凡十七次单位根之和：\n\\[\n\\eta+\\nu=\\sum_{k=1}^{16}\\zeta^k=-1.\n\\]\n对第二个等式，展开\n\\[\n\\eta\\nu=\\sum_{r\\in R}\\sum_{n\\in N}\\zeta^{r+n}.\n\\]\n固定 (rR)，乘以 (r^{-1}) 会置换 (R) 与 (N)，所以 (r+n=r(1+n/r)) 的分布只取决于 (1+N)。直接在模 (17) 下检查\n\\[\n1+N=\\{4,6,7,8,11,12,13,15\\}\n\\]\n可见其中四个数属于 (R)，四个属于 (N)。当 (r) 遍历 (R) 时，每个非零剩余指数与非剩余指数都恰好出现四次，且没有零指数。因此\n\\[\n\\eta\\nu\n=4\\sum_{k=1}^{16}\\zeta^k\n=-4.\n\\]"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html#证明主命题",
+    "href": "posts/cosine-sum-17/index.html#证明主命题",
+    "title": "正十七边形中的余弦和",
+    "section": "证明主命题",
+    "text": "证明主命题\n\n证明. 由 引理 1，() 与 () 是二次方程\n\\[\nt^2+t-4=0\n\\tag{7}\\]\n的两个根，故\n\\[\n\\{\\eta,\\nu\\}\n=\\left\\{\\frac{-1+\\sqrt{17}}2,\\frac{-1-\\sqrt{17}}2\\right\\}.\n\\]\n还需确定 () 取哪一个根。由 式 5， (=2S)。数值上（这里只用于区分两个已严格确定的代数根）\n\\[\nS\\approx 0.780776&gt;0,\n\\]\n所以\n\\[\n\\eta=\\frac{\\sqrt{17}-1}{2}.\n\\]\n再除以 (2)，便由 式 5 得到 式 1。\n\n\n注记 1 (Remark). 也可以引入 Legendre 符号 () 与二次高斯和\n\\[\nG=\\sum_{a=1}^{16}\\chi(a)\\zeta^a=\\eta-\\nu.\n\\]\n因为 (+)，有 (G=2+1)。经典高斯和恒等式给出 (G^2=17)；这与 式 7 完全等价。本文使用周期乘积计数，是为了把所需的二次关系直接展示出来。关于二次高斯和的系统背景可参见 Ireland 和 Rosen (1990年)。"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html#一个数值核对",
+    "href": "posts/cosine-sum-17/index.html#一个数值核对",
+    "title": "正十七边形中的余弦和",
+    "section": "一个数值核对",
+    "text": "一个数值核对\n下面的 Python 单元格默认不会执行。若本地安装了 Jupyter，并希望重新计算，可在文章 front matter 中单独加入 execute: enabled: true，然后运行 Quarto。\n\nimport math\n\nx = 2 * math.pi / 17\nS = sum(math.cos(k * x) for k in (1, 2, 4, 8))\nexact = (math.sqrt(17) - 1) / 4\nprint(S, exact, S - exact)\n\n这个核对不会参与证明；证明的核心是 式 3 对指数的分组，以及 式 6 给出的二次方程。"
+  },
+  {
+    "objectID": "posts/cosine-sum-17/index.html#参考文献",
+    "href": "posts/cosine-sum-17/index.html#参考文献",
+    "title": "正十七边形中的余弦和",
+    "section": "参考文献",
+    "text": "参考文献\n\n\nIreland, Kenneth, 和 Michael Rosen. 1990年. A Classical Introduction to Modern Number Theory. 2 版. 卷 84. Graduate Texts in Mathematics. Springer. https://doi.org/10.1007/978-1-4757-2103-4."
+  },
+  {
+    "objectID": "thoughts/index.html",
+    "href": "thoughts/index.html",
+    "title": "随想",
+    "section": "",
+    "text": "短一些，但仍然是公开写作。未准备公开的内容不放在这里。\n\n\n\n\n\n\n\n\n\n欢迎来到结构的烟花\n\n\n\n站务\n\n写作\n\n\n\n这个博客会写什么，以及它为何从数学写作开始。\n\n\n\n\n\n2026年7月26日\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "series/cyclotomic-notes.html",
+    "href": "series/cyclotomic-notes.html",
+    "title": "单位根札记",
+    "section": "",
+    "text": "这个系列收集围绕单位根与有限循环结构的文章。第一篇是正十七边形中的余弦和，从模 (17) 的二次剩余出发计算一个四项余弦和。\n后续内容会在真正适合公开时加入；私人提纲仍保留在不发布的草稿目录中。\n\n\n\n 回到顶部"
+  }
+]

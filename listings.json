@@ -1,0 +1,53 @@
+[
+  {
+    "listing": "/series/index.html",
+    "items": [
+      "/series/cyclotomic-notes.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/cosine-sum-17/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/index.html",
+      "/thoughts/index.html",
+      "/series/index.html",
+      "/posts/cosine-sum-17/index.html",
+      "/thoughts/welcome.html",
+      "/series/cyclotomic-notes.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/index.html",
+      "/thoughts/index.html",
+      "/series/index.html",
+      "/posts/cosine-sum-17/index.html",
+      "/thoughts/welcome.html",
+      "/series/cyclotomic-notes.html"
+    ]
+  },
+  {
+    "listing": "/topics.html",
+    "items": [
+      "/posts/index.html",
+      "/thoughts/index.html",
+      "/series/index.html",
+      "/posts/cosine-sum-17/index.html",
+      "/thoughts/welcome.html",
+      "/series/cyclotomic-notes.html"
+    ]
+  },
+  {
+    "listing": "/thoughts/index.html",
+    "items": [
+      "/thoughts/welcome.html"
+    ]
+  }
+]
