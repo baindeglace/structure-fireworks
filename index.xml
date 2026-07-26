@@ -83,7 +83,7 @@
 <section id="a-numerical-check" class="level2">
 <h2 class="anchored" data-anchor-id="a-numerical-check">A numerical check</h2>
 <p>The following Python cell is <strong>not executed by default</strong>. With Jupyter installed, it can be enabled for this article alone by adding <code>execute: enabled: true</code> to the front matter.</p>
-<div id="e896f0d1" class="cell">
+<div id="3fbd7336" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>
@@ -161,7 +161,7 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
   <media:content url="https://baindeglace.github.io/structure-fireworks/assets/og-cosine-17.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
-  <title>欢迎来到结构的烟花</title>
+  <title>Welcome to Fireworks of Structure</title>
   <dc:creator>Bruno Wang</dc:creator>
   <link>https://baindeglace.github.io/structure-fireworks/thoughts/welcome.html</link>
   <description><![CDATA[ 
@@ -170,15 +170,15 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
 
 
 
-<p>欢迎。</p>
-<p>这里以数学写作为主，也会偶尔谈语言与代码。理想中的文章不只给出结论，还尽量保留问题的来路、关键的转折，以及符号背后的直觉。</p>
-<p>第一篇示例文章讨论<a href="../posts/cosine-sum-17/index.html">正十七边形中的余弦和</a>。以后，长文会进入“文章”，短一些的公开想法会进入“随想”，相互关联的内容则整理成“系列”。</p>
+<p>Welcome.</p>
+<p>This site is primarily about mathematical writing, with occasional notes on language and code. An ideal essay does more than state a result: it preserves the path into the problem, the decisive turn, and the intuition behind the notation.</p>
+<p>The first worked essay studies <a href="../posts/cosine-sum-17/index.html">a cosine sum in the regular heptadecagon</a>. Long-form pieces will appear under Posts, shorter public notes under Thoughts, and connected work under Series.</p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>站务</category>
-  <category>写作</category>
+  <category>Site</category>
+  <category>Writing</category>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/welcome.html</guid>
   <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
 </item>
@@ -219,7 +219,7 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnklMkNBbGdlYnJh" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785104850851" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
+<div class="quarto-post image-right" data-index="0" data-categories="TWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnklMkNBbGdlYnJh" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025768" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../posts/cosine-sum-17/index.html" class="no-external">A Cosine Sum in the Regular Heptadecagon</a>
@@ -252,10 +252,10 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/posts/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:27:48 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
 </item>
 <item>
-  <title>随想</title>
+  <title>Thoughts</title>
   <link>https://baindeglace.github.io/structure-fireworks/thoughts/</link>
   <description><![CDATA[ 
 
@@ -263,27 +263,27 @@ Bruno Wang
 
 
 
-<p>短一些，但仍然是公开写作。未准备公开的内容不放在这里。</p>
+<p>Shorter pieces of public writing. Material that is not ready for publication does not belong here.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU3JUFCJTk5JUU1JThBJUExJTJDJUU1JTg2JTk5JUU0JUJEJTlD" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785104850851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="U2l0ZSUyQ1dyaXRpbmc=" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../thoughts/welcome.html" class="no-external">欢迎来到结构的烟花</a>
+<a href="../thoughts/welcome.html" class="no-external">Welcome to Fireworks of Structure</a>
 </h3>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('JUU3JUFCJTk5JUU1JThBJUEx'); return false;">站务</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U2l0ZQ=='); return false;">Site</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('JUU1JTg2JTk5JUU0JUJEJTlD'); return false;">写作</div>
+<div class="listing-category" onclick="window.quartoListingCategory('V3JpdGluZw=='); return false;">Writing</div>
 
 </div>
 <div class="delink listing-description"><a href="../thoughts/welcome.html" class="no-external">
-<p>这个博客会写什么，以及它为何从数学写作开始。</p>
+<p>What this blog is for, and why it begins with mathematical writing.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -298,7 +298,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:27:48 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
 </item>
 <item>
   <title>系列</title>
@@ -316,7 +316,7 @@ Bruno Wang
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU3JUIzJUJCJUU1JTg4JTk3" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785104850851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU3JUIzJUJCJUU1JTg4JTk3" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../series/cyclotomic-notes.html" class="no-external">单位根札记</a>
@@ -344,7 +344,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/series/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:27:48 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
 </item>
 </channel>
 </rss>

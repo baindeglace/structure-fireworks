@@ -8,11 +8,11 @@
 <title>Fireworks of Structure</title>
 <link>https://baindeglace.github.io/structure-fireworks/thoughts/</link>
 <atom:link href="https://baindeglace.github.io/structure-fireworks/thoughts/index.xml" rel="self" type="application/rss+xml"/>
-<description>可公开的短札、问题与阶段性观察。</description>
+<description>Short public notes, questions, and work in progress.</description>
 <generator>quarto-1.10.6</generator>
 <lastBuildDate>Sun, 26 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>欢迎来到结构的烟花</title>
+  <title>Welcome to Fireworks of Structure</title>
   <dc:creator>Bruno Wang</dc:creator>
   <link>https://baindeglace.github.io/structure-fireworks/thoughts/welcome.html</link>
   <description><![CDATA[ 
@@ -21,15 +21,15 @@
 
 
 
-<p>欢迎。</p>
-<p>这里以数学写作为主，也会偶尔谈语言与代码。理想中的文章不只给出结论，还尽量保留问题的来路、关键的转折，以及符号背后的直觉。</p>
-<p>第一篇示例文章讨论<a href="../posts/cosine-sum-17/index.html">正十七边形中的余弦和</a>。以后，长文会进入“文章”，短一些的公开想法会进入“随想”，相互关联的内容则整理成“系列”。</p>
+<p>Welcome.</p>
+<p>This site is primarily about mathematical writing, with occasional notes on language and code. An ideal essay does more than state a result: it preserves the path into the problem, the decisive turn, and the intuition behind the notation.</p>
+<p>The first worked essay studies <a href="../posts/cosine-sum-17/index.html">a cosine sum in the regular heptadecagon</a>. Long-form pieces will appear under Posts, shorter public notes under Thoughts, and connected work under Series.</p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>站务</category>
-  <category>写作</category>
+  <category>Site</category>
+  <category>Writing</category>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/welcome.html</guid>
   <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
 </item>

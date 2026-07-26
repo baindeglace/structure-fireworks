@@ -9,9 +9,9 @@
   {
     "objectID": "thoughts/welcome.html",
     "href": "thoughts/welcome.html",
-    "title": "欢迎来到结构的烟花",
+    "title": "Welcome to Fireworks of Structure",
     "section": "",
-    "text": "欢迎。\n这里以数学写作为主，也会偶尔谈语言与代码。理想中的文章不只给出结论，还尽量保留问题的来路、关键的转折，以及符号背后的直觉。\n第一篇示例文章讨论正十七边形中的余弦和。以后，长文会进入“文章”，短一些的公开想法会进入“随想”，相互关联的内容则整理成“系列”。\n\n\n\n Back to top"
+    "text": "Welcome.\nThis site is primarily about mathematical writing, with occasional notes on language and code. An ideal essay does more than state a result: it preserves the path into the problem, the decisive turn, and the intuition behind the notation.\nThe first worked essay studies a cosine sum in the regular heptadecagon. Long-form pieces will appear under Posts, shorter public notes under Thoughts, and connected work under Series.\n\n\n\n Back to top"
   },
   {
     "objectID": "posts/index.html",
@@ -25,7 +25,7 @@
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\n \n\n\nPosts\n\n\n \n\n\n\n\n\n\n \n\n\n随想\n\n\n \n\n\n\n\n\n\n \n\n\n系列\n\n\n \n\n\n\n\n\n\n26 July 2026\n\n\nA Cosine Sum in the Regular Heptadecagon\n\n\nMathematics, Number Theory, Algebra\n\n\n\n\n\n\n26 July 2026\n\n\n欢迎来到结构的烟花\n\n\n站务, 写作\n\n\n\n\n\n\n26 July 2026\n\n\n单位根札记\n\n\n数学, 系列\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\n \n\n\nPosts\n\n\n \n\n\n\n\n\n\n \n\n\nThoughts\n\n\n \n\n\n\n\n\n\n \n\n\n系列\n\n\n \n\n\n\n\n\n\n26 July 2026\n\n\nA Cosine Sum in the Regular Heptadecagon\n\n\nMathematics, Number Theory, Algebra\n\n\n\n\n\n\n26 July 2026\n\n\nWelcome to Fireworks of Structure\n\n\nSite, Writing\n\n\n\n\n\n\n26 July 2026\n\n\n单位根札记\n\n\n数学, 系列\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -46,7 +46,7 @@
     "href": "topics.html",
     "title": "Topics",
     "section": "",
-    "text": "Use the categories below to filter the public archive. Individual pieces may also carry more specific tags.\n\n\n\n\n\n\n\n\n\nPosts\n\n\nLong-form writing on mathematics, language, and code.\n\n\n\n\n\n\n\n\n\n\n随想\n\n\n可公开的短札、问题与阶段性观察。\n\n\n\n\n\n\n\n\n\n\n系列\n\n\n围绕同一问题持续展开的文章集合。\n\n\n\n\n\n\n\n\n\n\nA Cosine Sum in the Regular Heptadecagon\n\n\n\nMathematics\n\nNumber Theory\n\nAlgebra\n\n\n\nUsing seventeenth roots of unity and quadratic residues modulo 17 to evaluate cos(2π/17)+cos(4π/17)+cos(8π/17)+cos(16π/17).\n\n\n\n\n\n26 July 2026\n\n\n\n\n\n\n\n欢迎来到结构的烟花\n\n\n\n站务\n\n写作\n\n\n\n这个博客会写什么，以及它为何从数学写作开始。\n\n\n\n\n\n26 July 2026\n\n\n\n\n\n\n\n单位根札记\n\n\n\n数学\n\n系列\n\n\n\n从单位根、周期和与对称性出发的一组文章。\n\n\n\n\n\n26 July 2026\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Use the categories below to filter the public archive. Individual pieces may also carry more specific tags.\n\n\n\n\n\n\n\n\n\nPosts\n\n\nLong-form writing on mathematics, language, and code.\n\n\n\n\n\n\n\n\n\n\nThoughts\n\n\nShort public notes, questions, and work in progress.\n\n\n\n\n\n\n\n\n\n\n系列\n\n\n围绕同一问题持续展开的文章集合。\n\n\n\n\n\n\n\n\n\n\nA Cosine Sum in the Regular Heptadecagon\n\n\n\nMathematics\n\nNumber Theory\n\nAlgebra\n\n\n\nUsing seventeenth roots of unity and quadratic residues modulo 17 to evaluate cos(2π/17)+cos(4π/17)+cos(8π/17)+cos(16π/17).\n\n\n\n\n\n26 July 2026\n\n\n\n\n\n\n\nWelcome to Fireworks of Structure\n\n\n\nSite\n\nWriting\n\n\n\nWhat this blog is for, and why it begins with mathematical writing.\n\n\n\n\n\n26 July 2026\n\n\n\n\n\n\n\n单位根札记\n\n\n\n数学\n\n系列\n\n\n\n从单位根、周期和与对称性出发的一组文章。\n\n\n\n\n\n26 July 2026\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -100,9 +100,9 @@
   {
     "objectID": "thoughts/index.html",
     "href": "thoughts/index.html",
-    "title": "随想",
+    "title": "Thoughts",
     "section": "",
-    "text": "短一些，但仍然是公开写作。未准备公开的内容不放在这里。\n\n\n\n\n\n\n\n\n\n欢迎来到结构的烟花\n\n\n\n站务\n\n写作\n\n\n\n这个博客会写什么，以及它为何从数学写作开始。\n\n\n\n\n\n26 July 2026\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Shorter pieces of public writing. Material that is not ready for publication does not belong here.\n\n\n\n\n\n\n\n\n\nWelcome to Fireworks of Structure\n\n\n\nSite\n\nWriting\n\n\n\nWhat this blog is for, and why it begins with mathematical writing.\n\n\n\n\n\n26 July 2026\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "series/cyclotomic-notes.html",
