@@ -83,7 +83,7 @@
 <section id="一个数值核对" class="level2">
 <h2 class="anchored" data-anchor-id="一个数值核对">一个数值核对</h2>
 <p>下面的 Python 单元格默认<strong>不会执行</strong>。若本地安装了 Jupyter，并希望重新计算，可在文章 front matter 中单独加入 <code>execute: enabled: true</code>，然后运行 Quarto。</p>
-<div id="993a5611" class="cell">
+<div id="56b6dd3d" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>
@@ -219,7 +219,7 @@ Ireland, Kenneth, 和 Michael Rosen. 1990年. <em>A Classical Introduction to Mo
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU2JTk1JUIwJUU4JUFFJUJBJTJDJUU0JUJCJUEzJUU2JTk1JUIw" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785102645321" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU2JTk1JUIwJUU4JUFFJUJBJTJDJUU0JUJCJUEzJUU2JTk1JUIw" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785103029650" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../posts/cosine-sum-17/index.html" class="no-external">正十七边形中的余弦和</a>
@@ -252,7 +252,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/posts/</guid>
-  <pubDate>Sun, 26 Jul 2026 21:51:05 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 21:57:29 GMT</pubDate>
 </item>
 <item>
   <title>随想</title>
@@ -270,7 +270,7 @@ Bruno Wang
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU3JUFCJTk5JUU1JThBJUExJTJDJUU1JTg2JTk5JUU0JUJEJTlD" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785102645322" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU3JUFCJTk5JUU1JThBJUExJTJDJUU1JTg2JTk5JUU0JUJEJTlD" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785103029650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../thoughts/welcome.html" class="no-external">欢迎来到结构的烟花</a>
@@ -298,7 +298,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/</guid>
-  <pubDate>Sun, 26 Jul 2026 21:51:05 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 21:57:29 GMT</pubDate>
 </item>
 <item>
   <title>系列</title>
@@ -316,7 +316,7 @@ Bruno Wang
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU3JUIzJUJCJUU1JTg4JTk3" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785102645321" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU3JUIzJUJCJUU1JTg4JTk3" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785103029650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../series/cyclotomic-notes.html" class="no-external">单位根札记</a>
@@ -344,7 +344,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/series/</guid>
-  <pubDate>Sun, 26 Jul 2026 21:51:05 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 21:57:29 GMT</pubDate>
 </item>
 </channel>
 </rss>

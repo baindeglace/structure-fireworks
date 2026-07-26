@@ -83,7 +83,7 @@
 <section id="一个数值核对" class="level2">
 <h2 class="anchored" data-anchor-id="一个数值核对">一个数值核对</h2>
 <p>下面的 Python 单元格默认<strong>不会执行</strong>。若本地安装了 Jupyter，并希望重新计算，可在文章 front matter 中单独加入 <code>execute: enabled: true</code>，然后运行 Quarto。</p>
-<div id="993a5611" class="cell">
+<div id="56b6dd3d" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>
