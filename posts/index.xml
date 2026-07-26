@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>结构的烟花</title>
+<title>Fireworks of Structure</title>
 <link>https://baindeglace.github.io/structure-fireworks/posts/</link>
 <atom:link href="https://baindeglace.github.io/structure-fireworks/posts/index.xml" rel="self" type="application/rss+xml"/>
-<description>经过整理的数学、语言与代码长文。</description>
+<description>Long-form writing on mathematics, language, and code.</description>
 <generator>quarto-1.10.6</generator>
 <lastBuildDate>Sun, 26 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
@@ -27,10 +27,10 @@
 <section id="结论" class="level2">
 <h2 class="anchored" data-anchor-id="结论">结论</h2>
 <div id="prp-cosine-sum" class="theorem proposition">
-<p><span class="theorem-title"><strong>命题 1 (余弦和)</strong></span> 若 (x=2/17)，则</p>
+<p><span class="theorem-title"><strong>Proposition 1 (余弦和)</strong></span> 若 (x=2/17)，则</p>
 <p><span id="eq-main"><img src="https://latex.codecogs.com/png.latex?%0AS=%5Ccos%20x+%5Ccos%202x+%5Ccos%204x+%5Ccos%208x%0A%20%20=%5Cfrac%7B%5Csqrt%7B17%7D-1%7D%7B4%7D.%0A%5Ctag%7B1%7D"></span></p>
 </div>
-<p>证明 命题&nbsp;1 之前，先把余弦写成单位根的实部。</p>
+<p>证明 Proposition&nbsp;1 之前，先把余弦写成单位根的实部。</p>
 </section>
 <section id="单位根与二次剩余" class="level2">
 <h2 class="anchored" data-anchor-id="单位根与二次剩余">单位根与二次剩余</h2>
@@ -45,13 +45,13 @@
 <p>是实数，并且由 Euler 公式立即得到</p>
 <p><span id="eq-eta-s"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta%0A=2%5Cbigl(%5Ccos%20x+%5Ccos%202x+%5Ccos%204x+%5Ccos%208x%5Cbigr)%0A=2S.%0A%5Ctag%7B5%7D"></span></p>
 <div id="lem-period-product" class="theorem lemma">
-<p><span class="theorem-title"><strong>引理 1 (周期乘积)</strong></span> 若</p>
+<p><span class="theorem-title"><strong>Lemma 1 (周期乘积)</strong></span> 若</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0A%5Cnu=%5Csum_%7Bn%5Cin%20N%7D%5Czeta%5En,%0A"></p>
 <p>则</p>
 <p><span id="eq-period-relations"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta+%5Cnu=-1,%0A%5Cqquad%0A%5Ceta%5Cnu=-4.%0A%5Ctag%7B6%7D"></span></p>
 </div>
 <div class="proof">
-<p><span class="proof-title"><em>证明</em>. </span>第一个等式来自全部非平凡十七次单位根之和：</p>
+<p><span class="proof-title"><em>Proof</em>. </span>第一个等式来自全部非平凡十七次单位根之和：</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta+%5Cnu=%5Csum_%7Bk=1%7D%5E%7B16%7D%5Czeta%5Ek=-1.%0A"></p>
 <p>对第二个等式，展开</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta%5Cnu=%5Csum_%7Br%5Cin%20R%7D%5Csum_%7Bn%5Cin%20N%7D%5Czeta%5E%7Br+n%7D.%0A"></p>
@@ -64,26 +64,26 @@
 <section id="证明主命题" class="level2">
 <h2 class="anchored" data-anchor-id="证明主命题">证明主命题</h2>
 <div class="proof">
-<p><span class="proof-title"><em>证明</em>. </span>由 引理&nbsp;1，() 与 () 是二次方程</p>
+<p><span class="proof-title"><em>Proof</em>. </span>由 Lemma&nbsp;1，() 与 () 是二次方程</p>
 <p><span id="eq-period-polynomial"><img src="https://latex.codecogs.com/png.latex?%0At%5E2+t-4=0%0A%5Ctag%7B7%7D"></span></p>
 <p>的两个根，故</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0A%5C%7B%5Ceta,%5Cnu%5C%7D%0A=%5Cleft%5C%7B%5Cfrac%7B-1+%5Csqrt%7B17%7D%7D2,%5Cfrac%7B-1-%5Csqrt%7B17%7D%7D2%5Cright%5C%7D.%0A"></p>
-<p>还需确定 () 取哪一个根。由 式&nbsp;5， (=2S)。数值上（这里只用于区分两个已严格确定的代数根）</p>
+<p>还需确定 () 取哪一个根。由 Equation&nbsp;5， (=2S)。数值上（这里只用于区分两个已严格确定的代数根）</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0AS%5Capprox%200.780776%3E0,%0A"></p>
 <p>所以</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta=%5Cfrac%7B%5Csqrt%7B17%7D-1%7D%7B2%7D.%0A"></p>
-<p>再除以 (2)，便由 式&nbsp;5 得到 式&nbsp;1。</p>
+<p>再除以 (2)，便由 Equation&nbsp;5 得到 Equation&nbsp;1。</p>
 </div>
 <div id="rem-gauss-sum" class="proof remark">
-<p><span class="proof-title"><em>注记 1</em> (Remark). </span>也可以引入 Legendre 符号 () 与二次高斯和</p>
+<p><span class="proof-title"><em>Remark 1</em> (Remark). </span>也可以引入 Legendre 符号 () 与二次高斯和</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0AG=%5Csum_%7Ba=1%7D%5E%7B16%7D%5Cchi(a)%5Czeta%5Ea=%5Ceta-%5Cnu.%0A"></p>
-<p>因为 (+)，有 (G=2+1)。经典高斯和恒等式给出 (G^2=17)；这与 式&nbsp;7 完全等价。本文使用周期乘积计数，是为了把所需的二次关系直接展示出来。关于二次高斯和的系统背景可参见 <span class="citation" data-cites="ireland-rosen1990">Ireland 和 Rosen (1990年)</span>。</p>
+<p>因为 (+)，有 (G=2+1)。经典高斯和恒等式给出 (G^2=17)；这与 Equation&nbsp;7 完全等价。本文使用周期乘积计数，是为了把所需的二次关系直接展示出来。关于二次高斯和的系统背景可参见 <span class="citation" data-cites="ireland-rosen1990">Ireland and Rosen (1990)</span>。</p>
 </div>
 </section>
 <section id="一个数值核对" class="level2">
 <h2 class="anchored" data-anchor-id="一个数值核对">一个数值核对</h2>
 <p>下面的 Python 单元格默认<strong>不会执行</strong>。若本地安装了 Jupyter，并希望重新计算，可在文章 front matter 中单独加入 <code>execute: enabled: true</code>，然后运行 Quarto。</p>
-<div id="e3c38962" class="cell">
+<div id="06e24785" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>
@@ -139,20 +139,20 @@ font-style: inherit;">print</span>(S, exact, S <span class="op" style="color: #5
 background-color: null;
 font-style: inherit;">-</span> exact)</span></code></pre></div></div>
 </div>
-<p>这个核对不会参与证明；证明的核心是 式&nbsp;3 对指数的分组，以及 式&nbsp;6 给出的二次方程。</p>
+<p>这个核对不会参与证明；证明的核心是 Equation&nbsp;3 对指数的分组，以及 Equation&nbsp;6 给出的二次方程。</p>
 </section>
 <section id="参考文献" class="level2">
 <h2 class="anchored" data-anchor-id="参考文献">参考文献</h2>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-ireland-rosen1990" class="csl-entry">
-Ireland, Kenneth, 和 Michael Rosen. 1990年. <em>A Classical Introduction to Modern Number Theory</em>. 2 版. 卷 84. Graduate Texts in Mathematics. Springer. <a href="https://doi.org/10.1007/978-1-4757-2103-4">https://doi.org/10.1007/978-1-4757-2103-4</a>.
+Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Modern Number Theory</em>. 2nd edn. Vol. 84. Graduate Texts in Mathematics. Springer. <a href="https://doi.org/10.1007/978-1-4757-2103-4">https://doi.org/10.1007/978-1-4757-2103-4</a>.
 </div>
 </div>
 
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>数学</category>
   <category>数论</category>
   <category>代数</category>

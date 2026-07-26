@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>结构的烟花</title>
+<title>Fireworks of Structure</title>
 <link>https://baindeglace.github.io/structure-fireworks/thoughts/</link>
 <atom:link href="https://baindeglace.github.io/structure-fireworks/thoughts/index.xml" rel="self" type="application/rss+xml"/>
 <description>可公开的短札、问题与阶段性观察。</description>
@@ -27,7 +27,7 @@
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>站务</category>
   <category>写作</category>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/welcome.html</guid>
