@@ -83,7 +83,7 @@
 <section id="a-numerical-check" class="level2">
 <h2 class="anchored" data-anchor-id="a-numerical-check">A numerical check</h2>
 <p>The following Python cell is <strong>not executed by default</strong>. With Jupyter installed, it can be enabled for this article alone by adding <code>execute: enabled: true</code> to the front matter.</p>
-<div id="3fbd7336" class="cell">
+<div id="7422b855" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>

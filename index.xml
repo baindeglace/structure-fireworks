@@ -83,7 +83,7 @@
 <section id="a-numerical-check" class="level2">
 <h2 class="anchored" data-anchor-id="a-numerical-check">A numerical check</h2>
 <p>The following Python cell is <strong>not executed by default</strong>. With Jupyter installed, it can be enabled for this article alone by adding <code>execute: enabled: true</code> to the front matter.</p>
-<div id="3fbd7336" class="cell">
+<div id="7422b855" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> math</span>
@@ -183,7 +183,7 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
   <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>单位根札记</title>
+  <title>Notes on Roots of Unity</title>
   <dc:creator>Bruno Wang</dc:creator>
   <link>https://baindeglace.github.io/structure-fireworks/series/cyclotomic-notes.html</link>
   <description><![CDATA[ 
@@ -192,14 +192,14 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
 
 
 
-<p>这个系列收集围绕单位根与有限循环结构的文章。第一篇是<a href="../posts/cosine-sum-17/index.html">正十七边形中的余弦和</a>，从模 (17) 的二次剩余出发计算一个四项余弦和。</p>
-<p>后续内容会在真正适合公开时加入；私人提纲仍保留在不发布的草稿目录中。</p>
+<p>This series collects essays on roots of unity and finite cyclic structure. The first is <a href="../posts/cosine-sum-17/index.html">A Cosine Sum in the Regular Heptadecagon</a>, which evaluates a four-term cosine sum using quadratic residues modulo (17).</p>
+<p>Further pieces will appear only when they are ready for public reading; private outlines remain in the unpublished drafts directory.</p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>数学</category>
-  <category>系列</category>
+  <category>Mathematics</category>
+  <category>Series</category>
   <guid>https://baindeglace.github.io/structure-fireworks/series/cyclotomic-notes.html</guid>
   <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
 </item>
@@ -219,7 +219,7 @@ Ireland, Kenneth, and Michael Rosen. 1990. <em>A Classical Introduction to Moder
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnklMkNBbGdlYnJh" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025768" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
+<div class="quarto-post image-right" data-index="0" data-categories="TWF0aGVtYXRpY3MlMkNOdW1iZXIlMjBUaGVvcnklMkNBbGdlYnJh" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105097842" data-listing-date-modified-sort="1785024000000" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../posts/cosine-sum-17/index.html" class="no-external">A Cosine Sum in the Regular Heptadecagon</a>
@@ -252,7 +252,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/posts/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:32:22 GMT</pubDate>
 </item>
 <item>
   <title>Thoughts</title>
@@ -270,7 +270,7 @@ Bruno Wang
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="U2l0ZSUyQ1dyaXRpbmc=" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<div class="quarto-post image-right" data-index="0" data-categories="U2l0ZSUyQ1dyaXRpbmc=" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105097842" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../thoughts/welcome.html" class="no-external">Welcome to Fireworks of Structure</a>
@@ -298,10 +298,10 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/thoughts/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:32:22 GMT</pubDate>
 </item>
 <item>
-  <title>系列</title>
+  <title>Series</title>
   <link>https://baindeglace.github.io/structure-fireworks/series/</link>
   <description><![CDATA[ 
 
@@ -309,27 +309,27 @@ Bruno Wang
 
 
 
-<p>系列文章的入口。当前内容尚少，今后可以在此组织循序渐进的专题。</p>
+<p>An index of connected essays and developing themes.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="JUU2JTk1JUIwJUU1JUFEJUE2JTJDJUU3JUIzJUJCJUU1JTg4JTk3" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105025768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="quarto-post image-right" data-index="0" data-categories="TWF0aGVtYXRpY3MlMkNTZXJpZXM=" data-listing-date-sort="1785024000000" data-listing-file-modified-sort="1785105097842" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../series/cyclotomic-notes.html" class="no-external">单位根札记</a>
+<a href="../series/cyclotomic-notes.html" class="no-external">Notes on Roots of Unity</a>
 </h3>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('JUU2JTk1JUIwJUU1JUFEJUE2'); return false;">数学</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TWF0aGVtYXRpY3M='); return false;">Mathematics</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('JUU3JUIzJUJCJUU1JTg4JTk3'); return false;">系列</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U2VyaWVz'); return false;">Series</div>
 
 </div>
 <div class="delink listing-description"><a href="../series/cyclotomic-notes.html" class="no-external">
-<p>从单位根、周期和与对称性出发的一组文章。</p>
+<p>A series on roots of unity, periods, and symmetry.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -344,7 +344,7 @@ Bruno Wang
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://baindeglace.github.io/structure-fireworks/series/</guid>
-  <pubDate>Sun, 26 Jul 2026 22:30:50 GMT</pubDate>
+  <pubDate>Sun, 26 Jul 2026 22:32:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
